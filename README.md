@@ -222,4 +222,3 @@ Ap√≥s estabilizar o modelo, substitua `Base.metadata.create_all(...)` por migra√
 
 - [Pydantic Documentation](https://docs.pydantic.dev/)
 
-- [pytest Documentation](https://docs.pytest.org/)
